@@ -19,6 +19,25 @@ header {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+
+
+h3{  text-align: center; 
+     padding: 5px;
+    color: rgb(10, 10, 10);
+    position: fixed;
+    font-size: 40px;
+}
+
+ .git1{ text-align: center; color: crimson;
+     font-size: 25px;
+      background-color: #4CAF50; 
+      padding: 10px ; 
+      margin:5px ;
+      border-radius:5px ; border-color: #4CAF50; border: 5px ;
+
+ }
+span{ font-size:  bold    20px; color: black;  }
+
 footer {
     text-align: center;
     padding: 10px 0;
