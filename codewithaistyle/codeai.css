@@ -39,7 +39,8 @@ h3{  text-align: center;
 span{ font-size:  bold  25px; color: black;  }
 
 
-li{ font-size: 20px;                                            }
+li{ font-size: 20px;    border: 10px;  
+     border-radius: 10px;  margin-right: 20px;                                }
 
 footer {
     text-align: center;
